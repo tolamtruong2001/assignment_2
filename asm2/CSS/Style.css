@@ -1,0 +1,98 @@
+#header{
+    background-color: rgb(181, 225, 178);
+}
+#menu{
+    background-color:rgb(191, 193, 174);
+    width: 25%;
+    margin: 0 2.5%;
+    float: left;
+}
+#main{
+    background-color: rgb(174, 179, 178);
+    width: 67.5%;
+    margin: 0 2.5% 0 0;
+    float: left;
+}
+#footer{
+    clear: left;
+    background-color: cadetblue;
+    padding-left: 15px;
+}
+.menulist{
+    background-color:rgb(67, 182, 67);
+    font-weight: bold;
+    margin: 1% 9%;
+    color: chartreuse;
+}
+
+p#title{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+p#abtract{
+    font-style: italic;
+    text-align: justify;
+    padding: 0 5%;
+}
+
+p{
+    padding: 0 5%;
+    text-align: justify;
+}
+img{
+    width: 50%;
+    margin: 1% 5%;
+}
+a{
+    color:rgb(110, 111, 109);
+    text-decoration: none;
+}
+a:hover{
+    color: cadetblue;
+}
+
+a.menu{
+    color:chartreuse;
+}
+
+table#userRegistration{
+    margin: auto;
+    width: 70%;
+    background-color: beige;
+    padding: 0.5%;
+}
+
+th#userTH{
+    background-color: rgb(118, 236, 76);
+    color: rgb(185, 180, 175);
+    font-weight: bold;
+}
+
+tr#userRegistration{
+    text-align: center;
+}
+
+td.tbDetail{
+    padding-left: 1%;
+}
+
+table#tbLogin{
+    margin: auto;
+    width: 40%;
+    background-color: rgb(77, 171, 171);
+    border-radius: 1%;
+    padding: 0.5%;
+}
+
+th#thAddProduct{
+    text-align: center;
+    font-size: large;
+    color: rgb(90, 90, 192);
+    background-color: bisque;
+}
+
+td#btnAddProduct{
+    text-align: center;
+    padding-top: 2%;
+}
